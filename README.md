@@ -1,4 +1,4 @@
-# vue_prj2
+# tov-vue
 
 ## Project setup
 ```
